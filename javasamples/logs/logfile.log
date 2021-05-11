@@ -1,0 +1,11 @@
+INFO  | 2021-05-10 18:30:47 | [main] javasamples.App (App.java:17) - Hello world Will Be Printed ON Info
+WARN  | 2021-05-10 18:30:47 | [main] javasamples.App (App.java:18) - Hello world Will Be Printed ON Warn
+ERROR | 2021-05-10 18:30:47 | [main] javasamples.App (App.java:19) - Hello world Will Be Printed ON Error
+FATAL | 2021-05-10 18:30:47 | [main] javasamples.App (App.java:20) - Hello world Will Be Printed ON Fatal
+INFO  | 2021-05-10 18:30:47 | [main] javasamples.App (App.java:21) - Appending string: Hello world.
+DEBUG | 2021-05-10 18:35:12 | [main] javasamples.App (App.java:16) - Hello world Will Be Printed ON Debug
+INFO  | 2021-05-10 18:35:12 | [main] javasamples.App (App.java:17) - Hello world Will Be Printed ON Info
+WARN  | 2021-05-10 18:35:12 | [main] javasamples.App (App.java:18) - Hello world Will Be Printed ON Warn
+ERROR | 2021-05-10 18:35:12 | [main] javasamples.App (App.java:19) - Hello world Will Be Printed ON Error
+FATAL | 2021-05-10 18:35:12 | [main] javasamples.App (App.java:20) - Hello world Will Be Printed ON Fatal
+INFO  | 2021-05-10 18:35:12 | [main] javasamples.App (App.java:21) - Appending string: Hello world.
